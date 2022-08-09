@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 noodles
 string hoppers
 rice
+=======
+irumbu thirai
+thadam
+ratchasan
+>>>>>>> movies
